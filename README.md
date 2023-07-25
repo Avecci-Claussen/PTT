@@ -1,5 +1,5 @@
 # PTT
-I Call it a Pay To Tell token , a smart contract under construction for a payment token that will be available on web3 for users to basically add descriptions to their transaction for money management as for example recurring bills
+I Call it a Pay To Tell token , a smart contract under construction for a payment token that will be available on web3 for users to basically add descriptions to their transaction for money management as for example recurring bills. be expecting a web3 interface soon
 
 
 This Solidity smart contract is a payment contract named "MyPaymentContract" that uses the ERC20 token "PayToTell" (PTT) for payment purposes. Here's a simple explanation of how it works:
